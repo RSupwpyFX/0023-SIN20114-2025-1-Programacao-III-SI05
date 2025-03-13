@@ -38,11 +38,11 @@
                         <a class="nav-link active fonte01 fonte-tamanho" href="/photoshop">Edição de Imagem</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link fonte01 fonte-tamanho" href="https://github.com/ArthurEstevan/Entra21_JavaScript_2022" target="_blank">GitHub</a>
+                        <a class="nav-link fonte01 fonte-tamanho" href="https://github.com/RSupwpyFX/0023-SIN20114-2025-1-Programacao-III-SI05" target="_blank">GitHub</a>
                     </li>
                 </ul>
                 <span class="navbar-text">
-                    <a target="_blank" class="me-3" href="https://github.com/ArthurEstevan"><img src="/img/github.png" alt="GitHub"></a>
+                    <a target="_blank" class="me-3" href="https://github.com/RSupwpyFX"><img src="/img/github.png" alt="GitHub"></a>
                     <a target="_blank" class="me-3" href="https://www.linkedin.com/in/arthur-estevan-vargas-189208223/"><img src="/img/linkedin.png" alt="Linkedin"></a>
                     <a target="_blank" class="me-3" href="https://mail.google.com/mail/u/0/?fs=1&to=arthur.estevan01@gmail.com&su=Contato+-+via+perfil+github&body=Ol%C3%A1+Arthur+Tudo+bem?&tf=cm"><img src="/img/gmail.png" alt="Gmail"></a>
                     <a target="_blank" class="me-3" href="https://www.instagram.com/arthur.estevan/"><img src="/img/instagram.png" alt="Instagram"></a>

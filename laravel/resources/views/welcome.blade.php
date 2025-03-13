@@ -21,48 +21,38 @@
         <div class="col">
             <div class="card">
                 <div style="padding: 0" class="card-header">
-                    <img src="/img/weather.jpg" class="card-img-top" alt="...">
+                    <img style="height: 275px" src="/img/weather.jpg" class="card-img-top" alt="...">
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="/api-weather" class="btn btn-primary">Go somewhere</a>
+                    <h5 class="card-title">Previsão do Tempo</h5>
+                    <p class="card-text">Consulte a previsão do tempo.</p>
+                    <a href="/api-weather" class="btn btn-primary">Conferir</a>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="card">
                 <div style="padding: 0" class="card-header">
-                    <img src="/img/photoshop.jpg" class="card-img-top" alt="...">
+                    <img style="height: 275px" src="/img/photoshop.jpg" class="card-img-top" alt="...">
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <h5 class="card-title">Edição de Imagens</h5>
+                    <p class="card-text">Crie e edite imagens.</p>
+                    <a href="/photoshop" class="btn btn-primary">Conferir</a>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="card">
                 <div style="padding: 0" class="card-header">
-                    <img src="/img/weather.jpg" class="card-img-top" alt="...">
+                    <img style="height: 275px" src="/img/CRUD.jpeg" class="card-img-top" alt="...">
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <h5 class="card-title">Gerenciamento de Dados</h5>
+                    <p class="card-text">Realize operações CRUD para gerenciar seus registros.</p>
+                    <a href="#" class="btn btn-primary">Conferir</a>
                 </div>
             </div>
         </div>
     </div>
-
-    <!-- Informações -->
-    <section class="row mt-5 mb-4">
-        <div class="col">
-            <div class="card-header rounded p-4 bg-dark text-white">
-                <h3>Informações do Projeto</h3>
-                <p>Descrição do projeto ou informações relevantes.</p>
-            </div>
-        </div>
-    </section>
 @endsection
